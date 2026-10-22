@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ActivityNavigation</string>
+    <string name="main_activity_title">Main Activity</string>
+    <string name="second_activity_button">Second Activity</string>
+    <string name="second_activity_title">Second Activity</string>
+</resources>
